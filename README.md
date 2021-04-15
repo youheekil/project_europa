@@ -12,8 +12,9 @@ The European Central Bank has been buying corporate bonds since 2015. This signi
 Has the European Central bank been supporting the green economy when purchasing corporate bonds ?
 
 ## Initial Dataset(s)
-<https://www.ecb.europa.eu/mopo/implement/app/html/index.en.html#cspp>
-<https://sdw.ecb.europa.eu>
+Data1: <https://www.ecb.europa.eu/mopo/implement/app/html/index.en.html#cspp> 
+
+Data2: <https://sdw.ecb.europa.eu>
 
 To find information of a sector / industry a company is belonging to, you might for example want to consult the Refinitiv database (API-available) <https://permid.org/>
 
