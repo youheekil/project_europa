@@ -1,5 +1,6 @@
 # packages
 from selenium import webdriver as wd
+from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import Select
 from selenium.common import exceptions
 import time
@@ -27,18 +28,41 @@ def handle_noclick(b, xp, id_):
 
 
 # bulk download
-def bulk_download(webpage, save_dir, file_type):
-    
-##  # profile for autosaving
-    profile = wd.FirefoxProfile()
-    profile.set_preference("browser.download.folderList", 2)
-    profile.set_preference("browser.download.manager.showWhenStarting", False)
-    profile.set_preference("browser.download.dir", save_dir)
-    profile.set_preference("browser.helperApps.neverAsk.saveToDisk", file_type)
+def bulk_download(webpage, save_dir, file_type, driver='Firefox'):
+
+##  # defines profile and browser
+    if driver=='Firefox':
+        
+##      # profile for autosaving (Firefox)
+        profile = wd.FirefoxProfile()
+        profile.set_preference("browser.download.folderList", 2)
+        profile.set_preference("browser.download.manager.showWhenStarting", False)
+        profile.set_preference("browser.download.dir", save_dir)
+        profile.set_preference("browser.helperApps.neverAsk.saveToDisk", file_type)
+
+##      # start webdriver
+        browser = wd.Firefox(profile)
+
+    elif driver=='Chrome':
+##      WORK IN PROGRESS
+##      # profile for autosaving (Chrome)
+        profile = wd.ChromeOptions()
+        prefs = {'download.prompt_for_download': False,
+                 'safebrowsing.enabled': False,
+                 'safebrowsing.disable_download_protection': True,
+                 "profile.default_content_settings.popups": 0,
+                 "download.default_directory": save_dir,
+                 'download.directory_upgrade': True,}
+        profile.add_experimental_option('prefs', prefs)
+
+##      # start webdriver 
+        browser = wd.Chrome(profile)
+        
+    else:
+        raise SystemExit
 
 
-##  # start 
-    browser = wd.Firefox(profile)
+##  # get webpage
     browser.get(webpage)
     time.sleep(1)
 
@@ -80,6 +104,7 @@ def bulk_download(webpage, save_dir, file_type):
                 handle_noclick(b=browser, xp=w_xpath, id_=calButton)
        
 ##              # check
-                print("the date is: %s/%s, week: %s" % (year, month, w) )
+                print("donwload correspondos to: %s/%s, week: %s" % (year, month, w) )
                 
     browser.quit()
+    

@@ -60,4 +60,6 @@ this step can be done with idle, spyder, Jupyter notebook, or other IDE
 	jupyter notebook
 
 
-3. design scrapper
+3. design scrapper ('bulk_donwload' function)
+
+4. append '.csv' including dates ('merge_csv' function)
