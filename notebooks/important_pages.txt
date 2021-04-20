@@ -1,0 +1,4 @@
+pages:
+	domain/robots.txt
+	https://httpstatusdogs.com/
+	https://www.networkinghowtos.com/howto/common-user-agent-list/

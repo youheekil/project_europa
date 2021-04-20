@@ -1,0 +1,63 @@
+steps taken:
+0. install build-essential
+step needed in the case of using ubuntu
+	sudo apt-get install build-essential
+
+
+1. install python packages (not all will be used)
+	
+	1.1 install web browser driver
+		- install one of the following according to your web browser:
+	
+			. selenium driver (firefox): (josema)
+				web: https://github.com/mozilla/geckodriver/releases
+				file: geckodriver-v0.29.1-linux64.tar.gz
+	
+			. selenium driver (Chrome):
+				web: https://sites.google.com/a/chromium.org/chromedriver/downloads
+				action: select version, select OS
+		
+		- extract file
+		- make it executable
+			chmod +x geckodriver
+		- move it to appropriate location
+			sudo mv geckodriver (appropriate location)
+			
+			(appropriate location) have to be one of the following:  
+				. /usr/bin (josema)
+				. /usr/local/bin
+
+		- remove file and empty folders (in download folder)
+		
+
+	1.2 create virtual environment
+		- install/update 'pip' 
+			python3 -m pip install --user -U pip
+		- install 'virtualenv' package
+			python3 -m pip install --user -U virtualenv
+		- create folder
+		- open folder in terminal
+		- create virtual environment 
+			virtualenv (environment_name)
+		- activate virtual environment
+			source (environment_name)/bin/activate (linux)
+			.\(environment_name)\Scripts\activate (Windows)
+		
+		
+	1.3 install needed packages
+		scrappers: python3 -m pip install -U bs4 selenium requests
+		analysis: python3 -m pip install -U jupyter matplotlib numpy pandas scipy scikit-learn
+		file control: python3 -m pip install -U os shutil send2trash re glob
+		
+		
+	1.4 save requirements.txt
+		pip freeze > requirements.txt
+
+
+2. open IDE
+this step can be done with idle, spyder, Jupyter notebook, or other IDE
+	idle
+	jupyter notebook
+
+
+3. design scrapper
