@@ -1,6 +1,5 @@
 import os, glob, re
 import pandas as pd
-import re
 
 # function merge_csv
 def merge_csv(save_dir, file_dir, file_name):
