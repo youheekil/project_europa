@@ -44,7 +44,7 @@ def bulk_download(webpage, save_dir, file_type, driver='Firefox'):
         browser = wd.Firefox(profile)
 
     elif driver=='Chrome':
-##      WORK IN PROGRESS
+##      # WORK IN PROGRESS
 ##      # profile for autosaving (Chrome)
         profile = wd.ChromeOptions()
         prefs = {'download.prompt_for_download': False,
@@ -87,7 +87,7 @@ def bulk_download(webpage, save_dir, file_type, driver='Firefox'):
         mOp = mEl.find_elements_by_tag_name("option")
 
         for m in range( len(mOp) ):
-            if y==0:
+            if y==0: # year 2006 starts on june = 0
                 month = m + 6
             else:
                 month = m + 1
@@ -104,7 +104,7 @@ def bulk_download(webpage, save_dir, file_type, driver='Firefox'):
                 handle_noclick(b=browser, xp=w_xpath, id_=calButton)
        
 ##              # check
-                print("donwload correspondos to: %s/%s, week: %s" % (year, month, w) )
+                print("donwload corresponds to: %s/%s, week: %s" % (year, month, w) )
                 
     browser.quit()
     
