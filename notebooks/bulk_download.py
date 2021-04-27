@@ -5,8 +5,9 @@ from selenium.webdriver.support.ui import Select
 from selenium.common import exceptions
 import time
 
-
+############################################
 # handle StaleElementReferenceException
+############################################
 def handle_stale(b, e, cn, i):
     try:
         Select(e).select_by_index( i )
@@ -15,7 +16,9 @@ def handle_stale(b, e, cn, i):
         Select( e ).select_by_index( i )
 
 
+############################################
 # handle ElementNotInteractableException
+############################################
 def handle_noclick(b, xp, id_):
     try:
         b.find_element_by_xpath( xp ).click()
@@ -26,8 +29,9 @@ def handle_noclick(b, xp, id_):
         pass
     
 
-
+############################################
 # bulk download
+############################################
 def bulk_download(webpage, save_dir, file_type, driver='Firefox'):
 
 ##  # defines profile and browser

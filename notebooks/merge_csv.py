@@ -2,7 +2,10 @@ import os, glob, re, chardet
 import pandas as pd
 from statistics import mode
 
+
+############################################
 # function merge_csv
+############################################
 def merge_csv(save_dir, file_dir, file_name):
 ##      # location
         os.chdir(file_dir)
@@ -38,7 +41,12 @@ def merge_csv(save_dir, file_dir, file_name):
                 df.columns = ['NCB','ISIN_CODE','ISSUER_NAME','MATURITY_DATE','COUPON_RATE']
                 
 ##              # eliminating noninformative rows
-                idxNum = df[ df.ISIN_CODE.isnull() & df.ISSUER_NAME.isnull() & df.MATURITY_DATE.isnull() ].index
+                idxNum = df[ df.ISSUER_NAME.isnull() ].index
+                df = df.drop(index=idxNum)
+
+                idxNum = df.ISSUER_NAME.str.contains('(d|D)ummy')
+                idxNum = idxNum.fillna(False)
+                idxNum = df[ idxNum ].index
                 df = df.drop(index=idxNum)
                 
 ##              # adding file date
@@ -57,3 +65,4 @@ def merge_csv(save_dir, file_dir, file_name):
         full_path = save_dir + file_name + '.csv'
         merged_df.to_csv(full_path, index=False, encoding=final_encode)
         print('finished')
+##

@@ -12,7 +12,7 @@ sys.path.append('/home/jriveraespejo/Desktop/project_europa/notebooks')
 ##filet = "application/csv,text/csv,text/comma-separated-values"
 ##bulk_download(webpage=web1, save_dir=save1, file_type=filet, driver='Firefox')
 
-### merge csv's
+##### merge csv's
 ##file2 = "/home/jriveraespejo/Desktop/project_europa/data/raw"
 file3 = "/home/jriveraespejo/Desktop/project_europa/data/processed/"
 name1 = "CSPPholdings_201706_2021"
@@ -24,6 +24,8 @@ match_format(file_dir=file3, file_name=name1, save_dir=file3, save_name=name2)
 
 ### match file
 ### WORK IN PROGRESS
-##web2 = 'https://permid.org/match'
-##name3 = 'matches_CSPPholdings_201706_2021'
-##record_matching(webpage=web2, file_dir=file3, name_file=name2, name_save=name3, driver='Firefox')
+##web = 'https://api-eit.refinitiv.com/permid/match/file'
+##api_key = "oO5ad8FAjKz6GIwHvZtvjn8VjaWRvDIY"
+##file3 = "/home/jriveraespejo/Desktop/project_europa/data/processed/"
+##name2 = "format_CSPPcompanies_2017_2021"
+##match_api(webpage=web, api_key=api_key, file_dir=file3 name_file=name2, name_save='')
