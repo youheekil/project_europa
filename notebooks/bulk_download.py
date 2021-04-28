@@ -5,8 +5,9 @@ from selenium.webdriver.support.ui import Select
 from selenium.common import exceptions
 import time
 
-
+############################################
 # handle StaleElementReferenceException
+############################################
 def handle_stale(b, e, cn, i):
     try:
         Select(e).select_by_index( i )
@@ -15,7 +16,9 @@ def handle_stale(b, e, cn, i):
         Select( e ).select_by_index( i )
 
 
+############################################
 # handle ElementNotInteractableException
+############################################
 def handle_noclick(b, xp, id_):
     try:
         b.find_element_by_xpath( xp ).click()
@@ -26,8 +29,9 @@ def handle_noclick(b, xp, id_):
         pass
     
 
-
+############################################
 # bulk download
+############################################
 def bulk_download(webpage, save_dir, file_type, driver='Firefox'):
 
 ##  # defines profile and browser
@@ -44,7 +48,7 @@ def bulk_download(webpage, save_dir, file_type, driver='Firefox'):
         browser = wd.Firefox(profile)
 
     elif driver=='Chrome':
-##      WORK IN PROGRESS
+##      # WORK IN PROGRESS
 ##      # profile for autosaving (Chrome)
         profile = wd.ChromeOptions()
         prefs = {'download.prompt_for_download': False,
@@ -87,7 +91,7 @@ def bulk_download(webpage, save_dir, file_type, driver='Firefox'):
         mOp = mEl.find_elements_by_tag_name("option")
 
         for m in range( len(mOp) ):
-            if y==0:
+            if y==0: # year 2006 starts on june = 0
                 month = m + 6
             else:
                 month = m + 1
@@ -104,7 +108,7 @@ def bulk_download(webpage, save_dir, file_type, driver='Firefox'):
                 handle_noclick(b=browser, xp=w_xpath, id_=calButton)
        
 ##              # check
-                print("donwload correspondos to: %s/%s, week: %s" % (year, month, w) )
+                print("donwload corresponds to: %s/%s, week: %s" % (year, month, w) )
                 
     browser.quit()
     

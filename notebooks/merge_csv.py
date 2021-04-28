@@ -1,8 +1,11 @@
-import os, glob, re
+import os, glob, re, chardet
 import pandas as pd
-import re
+from statistics import mode
 
+
+############################################
 # function merge_csv
+############################################
 def merge_csv(save_dir, file_dir, file_name):
 ##      # location
         os.chdir(file_dir)
@@ -11,21 +14,41 @@ def merge_csv(save_dir, file_dir, file_name):
         all_files = [i for i in glob.glob("*.csv")]
 
 ##      # regular expression for date
-        regex = re.compile(r'\d+')       
+        regex = re.compile(r'\d+')
 
 ##      # iterating through data
-        all_df = []
+        all_df = [] # to concatenate all data
+        encode = [] # to save all encodings
+        
         for file in all_files:
+##              # check encoding of files: open first 10'000 bytes                 
+                with open(file, 'rb') as rawdata:
+                        encoding = chardet.detect(rawdata.read(10000))
+##                print(encoding)
+##                # 73% of confidence in each file
+                        
+                encode.append(encoding['encoding']) # to use in final file
+
 ##              # load data frame
-                df = pd.read_csv(file, sep=',', encoding='latin1')
+                df = pd.read_csv(file, sep=',', encoding=encoding['encoding'])
 
 ##              # eliminating unnecessary columns
+##              # some files have extra empty colums
                 if df.shape[1] > 5:
-                        df.drop(df.iloc[:, 5:], inplace=True, axis=1)
+                        df.drop(df.iloc[:, 5:], axis=1, inplace=True)
 
 ##              # equalizing column names
                 df.columns = ['NCB','ISIN_CODE','ISSUER_NAME','MATURITY_DATE','COUPON_RATE']
+                
+##              # eliminating noninformative rows
+                idxNum = df[ df.ISSUER_NAME.isnull() ].index
+                df = df.drop(index=idxNum)
 
+                idxNum = df.ISSUER_NAME.str.contains('(d|D)ummy')
+                idxNum = idxNum.fillna(False)
+                idxNum = df[ idxNum ].index
+                df = df.drop(index=idxNum)
+                
 ##              # adding file date
                 df['file_date'] = regex.findall(file) * df.shape[0]
 
@@ -33,8 +56,13 @@ def merge_csv(save_dir, file_dir, file_name):
                 all_df.append(df)
                 merged_df = pd.concat(all_df, ignore_index=True, sort=True)
 
-##      # saving data
-        full_path = save_dir + file_name + '.csv'
-        merged_df.to_csv(full_path, index=False)
-        print('finished')
+##      # sorting by date
+        merged_df = merged_df.sort_values(by='file_date')
         
+##      # saving data
+##      # use most repeated encoding
+        final_encode = mode(encode)
+        full_path = save_dir + file_name + '.csv'
+        merged_df.to_csv(full_path, index=False, encoding=final_encode)
+        print('finished')
+##

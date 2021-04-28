@@ -45,9 +45,9 @@ step needed in the case of using ubuntu
 		
 		
 	1.3 install needed packages
-		scrappers: python3 -m pip install -U bs4 selenium requests
-		analysis: python3 -m pip install -U jupyter matplotlib numpy pandas scipy scikit-learn
-		file control: python3 -m pip install -U os shutil send2trash re glob
+		scrappers: 	python3 -m pip install -U bs4 selenium requests jsonlib demjson simplejson json
+		analysis: 	python3 -m pip install -U jupyter matplotlib numpy pandas scipy scikit-learn
+		file control: 	python3 -m pip install -U os shutil send2trash re glob
 		
 		
 	1.4 save requirements.txt
@@ -55,11 +55,30 @@ step needed in the case of using ubuntu
 
 
 2. open IDE
-this step can be done with idle, spyder, Jupyter notebook, or other IDE
-	idle
-	jupyter notebook
-
+it can be idle, spyder, Jupyter notebook, or other IDE
 
 3. design scrapper ('bulk_donwload' function)
 
 4. append '.csv' including dates ('merge_csv' function)
+
+5. pull data from API
+	
+	5.1 create an account in https://permid.org/
+	
+	5.2 match entity's names and instruments: 
+		
+		1st form: no human intervention
+			API: PermID - Record Matching - RESTful API
+			function: not developed yet
+		
+		2nd form: with human intervention
+			- https://permid.org/match
+			- function: match_format (to produce the correct csv file)
+		
+		
+	5.2 pull information of entities: 
+		API: PermID - Entity Search - RESTful API
+		function: 'API_pull'
+	
+6. join data from csv's with API data
+

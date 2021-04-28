@@ -2598,3 +2598,65 @@ webdriverClickElement@chrome://marionette/content/interaction.js:179:31
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1619462756521	geckodriver	INFO	Listening on 127.0.0.1:41033
+1619462757538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXvwbbF"
+1619462758028	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619462759497	Marionette	INFO	Listening on port 35921
+1619462759559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619462781861	Marionette	INFO	Stopped listening on port 35921
+1619462787744	geckodriver	INFO	Listening on 127.0.0.1:33877
+1619462787751	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileefTfsE"
+1619462788173	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619462789660	Marionette	INFO	Listening on port 44693
+1619462789770	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://permid.org"
+1619462911622	geckodriver	INFO	Listening on 127.0.0.1:48865
+1619462911629	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewRmfgO"
+1619462912073	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619462913584	Marionette	INFO	Listening on port 34387
+1619462913648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619462956581	geckodriver	INFO	Listening on 127.0.0.1:51135
+1619462956587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNAwTC9"
+1619462957023	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619462958528	Marionette	INFO	Listening on port 44911
+1619462958606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619463002301	Marionette	INFO	Stopped listening on port 44911
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619463006652	Marionette	INFO	Stopped listening on port 44693
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619463008953	Marionette	INFO	Stopped listening on port 34387
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619463122378	geckodriver	INFO	Listening on 127.0.0.1:37897
+1619463122385	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejaxwBY"
+1619463122804	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619463124295	Marionette	INFO	Listening on port 34901
+1619463124405	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://developers.refinitiv.com/etc.clientlibs/devportal/components/content/ftlClientlib.min.js, line 3: TypeError: ContextHub.getItem(...) is null
+1619463404097	geckodriver	INFO	Listening on 127.0.0.1:58351
+1619463404104	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelyhHZt"
+1619463404524	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619463406003	Marionette	INFO	Listening on port 45413
+1619463406025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619463418302	Marionette	INFO	Stopped listening on port 45413
+1619463421255	Marionette	INFO	Stopped listening on port 34901
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
