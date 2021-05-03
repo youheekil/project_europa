@@ -32,7 +32,8 @@ def handle_noclick(b, xp, id_):
 ############################################
 # bulk download
 ############################################
-def bulk_download(webpage, save_dir, file_type, driver='Firefox'):
+def bulk_download(webpage, save_dir, driver='Firefox',
+                  file_type="application/csv,text/csv,text/comma-separated-values"):
 
 ##  # defines profile and browser
     if driver=='Firefox':
