@@ -39,11 +39,13 @@ step needed in the case of using ubuntu
 			
 	1.3 install needed packages
 		scrappers: 	
-			. python3 -m pip install -U bs4 selenium requests jsonlib demjson simplejson
+			. python3 -m pip install -U bs4 selenium requests lxml lightrdf
 		analysis:
 			. python3 -m pip install -U jupyter matplotlib numpy pandas scipy scikit-learn
 		file control:
 			. python3 -m pip install -U os shutil send2trash re glob
+		already installed:
+			. json
 		
 	1.4 save requirements.txt
 		pip freeze > requirements.txt
@@ -60,7 +62,7 @@ it can be idle, spyder, Jupyter notebook, or other IDE
 	- function:
 		. 'merge_csv'
 
-5. pull data from API
+5. pull from API and join data 
 	
 	5.1 create an account in https://permid.org/
 	
@@ -76,13 +78,7 @@ it can be idle, spyder, Jupyter notebook, or other IDE
 		- function: 
 			. 'match info': to join all (name files) produced in the previous step
 		
-	5.4 pull information of entities: 
-		- web:
-			. https://permid.org/download
-		- data: 
-			. industry (updated: 02 May, 2021)
+	5.4 pull information of entities:
 		- function: 
 			. 'match_data'
-	
-6. join data from csv's with API data
-
+			
