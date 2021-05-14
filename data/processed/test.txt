@@ -439,3 +439,885 @@ Providers of retail and commercial banking, consumer financial services and comm
 Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
 Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
 Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Producers and distributors of natural gas.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Manufacturers of industrial, construction, agricultural and electrical machinery, equipment & components, and shipbuilders.	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+0	
+Builders and engineers that undertake commercial building, civil engineering, utility and other industrial plant construction projects. Includes builders of transportation infrastructure, dam and water works, as well as hotel, office buildings. Includes also manufacturers of heavy machinery for permanent installation.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Manufacturers of fabrics, leather and other textiles, apparel, accessories and footwear.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+0	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+0	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+0	
+Producers of commercial, military and private aircraft and spacecraft. Includes manufacturers of military equipment, vehicles, explosive ordnance, guidance systems, artillery, ammunition and other related weaponry. Includes also manufacturers of satellites.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Manufacturers of industrial, construction, agricultural and electrical machinery, equipment & components, and shipbuilders.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Developers and marketers of generic system and application software, as well as providers of consulting and IT services.	
+Manufacturers of electronic products, such as biometric products, electronic components and parts and display screens.	
+Brewers, distillers, producers and distributors of beer and malt liquor, wine and distilled liquors, as well as non-alcoholic beverages including water, fruit drinks, sodas and other flavored beverages.	
+Brewers, distillers, producers and distributors of beer and malt liquor, wine and distilled liquors, as well as non-alcoholic beverages including water, fruit drinks, sodas and other flavored beverages.	
+Brewers, distillers, producers and distributors of beer and malt liquor, wine and distilled liquors, as well as non-alcoholic beverages including water, fruit drinks, sodas and other flavored beverages.	
+Brewers, distillers, producers and distributors of beer and malt liquor, wine and distilled liquors, as well as non-alcoholic beverages including water, fruit drinks, sodas and other flavored beverages.	
+Producers, refiners and transporters of raw and refined oil and gas products.	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+Miners and processors of precious metals & minerals, steel, aluminum and specialty metals and minerals. Includes integrated mining, and mining support services & equipment companies.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Designers and manufacturers of semiconductors, as well as producers of testing and manufacturing equipment for semiconductor manufacturers.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Developers and marketers of generic system and application software, as well as providers of consulting and IT services.	
+0	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+0	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Producers and processors of Food & Tobacco. Includes operators of farms, aquaculture and fisheries.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Manufacturers and marketers of generic and specialty drugs, as well as researchers and developers of new drugs, medical products and procedures.	
+Manufacturers and marketers of generic and specialty drugs, as well as researchers and developers of new drugs, medical products and procedures.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Providers of advertising, marketing, broadcasting, entertainment production and publishing services.	
+Providers of advertising, marketing, broadcasting, entertainment production and publishing services.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+0	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Builders and engineers that undertake commercial building, civil engineering, utility and other industrial plant construction projects. Includes builders of transportation infrastructure, dam and water works, as well as hotel, office buildings. Includes also manufacturers of heavy machinery for permanent installation.	
+Builders and engineers that undertake commercial building, civil engineering, utility and other industrial plant construction projects. Includes builders of transportation infrastructure, dam and water works, as well as hotel, office buildings. Includes also manufacturers of heavy machinery for permanent installation.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Miners and producers of raw materials for road and building construction. Includes extractors of sand, gravel, rock, clay, granite, limestone, marble, slate, gypsum, lime, and producers of cement, concrete, and bricks, as well as operators of filtering, bleaching, crushing, cutting, sizing and processing services.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Developers and marketers of generic system and application software, as well as providers of consulting and IT services.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Retailers operating pharmacies, grocery, convenience, liquor and specialty food stores.	
+Manufacturers of industrial, construction, agricultural and electrical machinery, equipment & components, and shipbuilders.	
+0	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+0	
+0	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+0	
+0	
+Brewers, distillers, producers and distributors of beer and malt liquor, wine and distilled liquors, as well as non-alcoholic beverages including water, fruit drinks, sodas and other flavored beverages.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Builders of residential homes, mobile homes and prefabricated homes, and manufacturers of value-added building products and home improvement components.	
+0	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+Operators of hotels, motels, cruise lines, restaurants, casinos, gaming operations, sports stadiums, golf courses, amusement parks and other recreational services.	
+0	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+Producers, refiners and transporters of raw and refined oil and gas products.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+0	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Providers of transportation services to passengers via air, ground and sea.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Providers of retail, commercial and investment banking, consumer financial services, investment services, commercial loans and diversified financial services.	
+Miners and producers of raw materials for road and building construction. Includes extractors of sand, gravel, rock, clay, granite, limestone, marble, slate, gypsum, lime, and producers of cement, concrete, and bricks, as well as operators of filtering, bleaching, crushing, cutting, sizing and processing services.	
+Miners and producers of raw materials for road and building construction. Includes extractors of sand, gravel, rock, clay, granite, limestone, marble, slate, gypsum, lime, and producers of cement, concrete, and bricks, as well as operators of filtering, bleaching, crushing, cutting, sizing and processing services.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+0	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+0	
+Producers and processors of Food & Tobacco. Includes operators of farms, aquaculture and fisheries.	
+Developers and marketers of generic system and application software, as well as providers of consulting and IT services.	
+0	
+0	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+0	
+Providers of transportation services to passengers via air, ground and sea.	
+Providers of freight and logistics services by all means, such as air, marine and ground.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+0	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+0	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+0	
+0	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+0	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Producers, refiners and transporters of raw and refined oil and gas products.	
+Producers, refiners and transporters of raw and refined oil and gas products.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+0	
+0	
+0	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Retailers operating pharmacies, grocery, convenience, liquor and specialty food stores.	
+Manufacturers of fabrics, leather and other textiles, apparel, accessories and footwear.	
+Manufacturers of fabrics, leather and other textiles, apparel, accessories and footwear.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+Providers of oil and gas drilling and related services, as well as manufacturers of oil related equipment.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of transportation services to passengers via air, ground and sea.	
+Providers of transportation services to passengers via air, ground and sea.	
+0	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+0	
+0	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+0	
+Operators of healthcare facilities and providers of managed healthcare.	
+Operators of healthcare facilities and providers of managed healthcare.	
+Operators of healthcare facilities and providers of managed healthcare.	
+0	
+Producers and distributors of natural gas.	
+Providers of oil and gas drilling and related services, as well as manufacturers of oil related equipment.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+0	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Miners and producers of raw materials for road and building construction. Includes extractors of sand, gravel, rock, clay, granite, limestone, marble, slate, gypsum, lime, and producers of cement, concrete, and bricks, as well as operators of filtering, bleaching, crushing, cutting, sizing and processing services.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Miners and producers of raw materials for road and building construction. Includes extractors of sand, gravel, rock, clay, granite, limestone, marble, slate, gypsum, lime, and producers of cement, concrete, and bricks, as well as operators of filtering, bleaching, crushing, cutting, sizing and processing services.	
+0	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Brewers, distillers, producers and distributors of beer and malt liquor, wine and distilled liquors, as well as non-alcoholic beverages including water, fruit drinks, sodas and other flavored beverages.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+0	
+0	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+0	
+Builders and engineers that undertake commercial building, civil engineering, utility and other industrial plant construction projects. Includes builders of transportation infrastructure, dam and water works, as well as hotel, office buildings. Includes also manufacturers of heavy machinery for permanent installation.	
+0	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+0	
+0	
+0	
+0	
+0	
+0	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+0	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Designers and manufacturers of semiconductors, as well as producers of testing and manufacturing equipment for semiconductor manufacturers.	
+0	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Builders and engineers that undertake commercial building, civil engineering, utility and other industrial plant construction projects. Includes builders of transportation infrastructure, dam and water works, as well as hotel, office buildings. Includes also manufacturers of heavy machinery for permanent installation.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Providers of transportation services to passengers via air, ground and sea.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+0	
+Producers and distributors of natural gas.	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Providers of advertising, marketing, broadcasting, entertainment production and publishing services.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Retailers operating stores and dealerships focused on a single area. Includes auto part, home improvement, home furnishing, office supply, toy, sporting equipment, book, kitchenware and houseware retailers. Includes also garden centers, car and truck dealerships.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+Manufacturers of industrial, construction, agricultural and electrical machinery, equipment & components, and shipbuilders.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Manufacturers of industrial, construction, agricultural and electrical machinery, equipment & components, and shipbuilders.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Retailers operating pharmacies, grocery, convenience, liquor and specialty food stores.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Manufacturers of advanced medical equipment, medical technology providers and basic medical supplies.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Providers of freight and logistics services by all means, such as air, marine and ground.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Manufacturers of industrial, construction, agricultural and electrical machinery, equipment & components, and shipbuilders.	
+Producers of commercial, military and private aircraft and spacecraft. Includes manufacturers of military equipment, vehicles, explosive ordnance, guidance systems, artillery, ammunition and other related weaponry. Includes also manufacturers of satellites.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Producers and distributors of electricity, natural gas, water, steam and utility infrastructure operators.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+0	
+Manufacturers of fabrics, leather and other textiles, apparel, accessories and footwear.	
+0	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Producers and distributors of natural gas.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Retailers operating stores and dealerships focused on a single area. Includes auto part, home improvement, home furnishing, office supply, toy, sporting equipment, book, kitchenware and houseware retailers. Includes also garden centers, car and truck dealerships.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of transportation services to passengers via air, ground and sea.	
+Operators of forests, pulp and paper mills, producers and manufacturers of wood and paper products, and providers of related services.	
+Manufacturers of industrial, construction, agricultural and electrical machinery, equipment & components, and shipbuilders.	
+Builders and engineers that undertake commercial building, civil engineering, utility and other industrial plant construction projects. Includes builders of transportation infrastructure, dam and water works, as well as hotel, office buildings. Includes also manufacturers of heavy machinery for permanent installation.	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+0	
+Manufacturers of containers, as well as providers of packaging services.	
+Producers of commercial, military and private aircraft and spacecraft. Includes manufacturers of military equipment, vehicles, explosive ordnance, guidance systems, artillery, ammunition and other related weaponry. Includes also manufacturers of satellites.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Producers and distributors of natural gas.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+0	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Manufacturers of telecommunications equipment such as modems, cable decoders, carrier switches, fiber cable, wireless and satellite communication equipment.	
+Producers and distributors of natural gas.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Operators of hotels, motels, cruise lines, restaurants, casinos, gaming operations, sports stadiums, golf courses, amusement parks and other recreational services.	
+0	
+0	
+Producers, refiners and transporters of raw and refined oil and gas products.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Brewers, distillers, producers and distributors of beer and malt liquor, wine and distilled liquors, as well as non-alcoholic beverages including water, fruit drinks, sodas and other flavored beverages.	
+Producers, refiners and transporters of raw and refined oil and gas products.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+Providers of freight and logistics services by all means, such as air, marine and ground.	
+Providers of freight and logistics services by all means, such as air, marine and ground.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Developers and marketers of generic system and application software, as well as providers of consulting and IT services.	
+Providers of advertising, marketing, broadcasting, entertainment production and publishing services.	
+Providers of advertising, marketing, broadcasting, entertainment production and publishing services.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+0	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of transportation services to passengers via air, ground and sea.	
+Providers of transportation services to passengers via air, ground and sea.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+Producers, refiners and transporters of raw and refined oil and gas products.	
+0	
+0	
+0	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+0	
+Manufacturers and marketers of generic and specialty drugs, as well as researchers and developers of new drugs, medical products and procedures.	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+0	
+Providers of transportation services to passengers via air, ground and sea.	
+Producers of commercial, military and private aircraft and spacecraft. Includes manufacturers of military equipment, vehicles, explosive ordnance, guidance systems, artillery, ammunition and other related weaponry. Includes also manufacturers of satellites.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+0	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Manufacturers and marketers of generic and specialty drugs, as well as researchers and developers of new drugs, medical products and procedures.	
+Developers and marketers of generic system and application software, as well as providers of consulting and IT services.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+Providers of oil and gas drilling and related services, as well as manufacturers of oil related equipment.	
+Manufacturers of industrial, construction, agricultural and electrical machinery, equipment & components, and shipbuilders.	
+Manufacturers of industrial, construction, agricultural and electrical machinery, equipment & components, and shipbuilders.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Producers, refiners and transporters of raw and refined oil and gas products.	
+Large organizations, engaged in multiple business lines within the consumer goods sectors, including non-cyclical consumer goods and cyclical consumer goods.	
+0	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Builders of residential homes, mobile homes and prefabricated homes, and manufacturers of value-added building products and home improvement components.	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Providers of transportation services to passengers via air, ground and sea.	
+Operators of hotels, motels, cruise lines, restaurants, casinos, gaming operations, sports stadiums, golf courses, amusement parks and other recreational services.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Producers and distributors of natural gas.	
+0	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Manufacturers of household appliances, tools, house wares and home furnishing goods.	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Operators of forests, pulp and paper mills, producers and manufacturers of wood and paper products, and providers of related services.	
+Builders and engineers that undertake commercial building, civil engineering, utility and other industrial plant construction projects. Includes builders of transportation infrastructure, dam and water works, as well as hotel, office buildings. Includes also manufacturers of heavy machinery for permanent installation.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Listed closed-end investment funds, as well as other funds where participation can be bought and sold as units or shares such as open-ended or mutual funds, exchange-traded funds, exchange traded products, unit trusts and unit investment trusts.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Manufacturers of industrial, construction, agricultural and electrical machinery, equipment & components, and shipbuilders.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Producers of commercial, military and private aircraft and spacecraft. Includes manufacturers of military equipment, vehicles, explosive ordnance, guidance systems, artillery, ammunition and other related weaponry. Includes also manufacturers of satellites.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+0	
+0	
+Manufacturers of electronic products, such as biometric products, electronic components and parts and display screens.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Manufacturers of non-durable household goods, personal products and providers of personal services.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Manufacturers and marketers of generic and specialty drugs, as well as researchers and developers of new drugs, medical products and procedures.	
+Operators of forests, pulp and paper mills, producers and manufacturers of wood and paper products, and providers of related services.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+Builders and engineers that undertake commercial building, civil engineering, utility and other industrial plant construction projects. Includes builders of transportation infrastructure, dam and water works, as well as hotel, office buildings. Includes also manufacturers of heavy machinery for permanent installation.	
+Operators of water delivery infrastructure, water treatment, filtration and sewage disposal plants. Includes operators supplying geothermal, steam heat and cooled air, as well as providers of hot water for district heating purposes.	
+Operators of water delivery infrastructure, water treatment, filtration and sewage disposal plants. Includes operators supplying geothermal, steam heat and cooled air, as well as providers of hot water for district heating purposes.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+0	
+Builders and engineers that undertake commercial building, civil engineering, utility and other industrial plant construction projects. Includes builders of transportation infrastructure, dam and water works, as well as hotel, office buildings. Includes also manufacturers of heavy machinery for permanent installation.	
+Providers of advertising, marketing, broadcasting, entertainment production and publishing services.	
+Providers of advertising, marketing, broadcasting, entertainment production and publishing services.	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Providers of financial technology (Fintech) services and infrastructure.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Producers and distributors of natural gas.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Manufacturers of industrial, construction, agricultural and electrical machinery, equipment & components, and shipbuilders.	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+0	
+Builders and engineers that undertake commercial building, civil engineering, utility and other industrial plant construction projects. Includes builders of transportation infrastructure, dam and water works, as well as hotel, office buildings. Includes also manufacturers of heavy machinery for permanent installation.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Manufacturers of fabrics, leather and other textiles, apparel, accessories and footwear.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+0	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+0	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+0	
+Producers of commercial, military and private aircraft and spacecraft. Includes manufacturers of military equipment, vehicles, explosive ordnance, guidance systems, artillery, ammunition and other related weaponry. Includes also manufacturers of satellites.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Manufacturers of industrial, construction, agricultural and electrical machinery, equipment & components, and shipbuilders.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Developers and marketers of generic system and application software, as well as providers of consulting and IT services.	
+Manufacturers of electronic products, such as biometric products, electronic components and parts and display screens.	
+Brewers, distillers, producers and distributors of beer and malt liquor, wine and distilled liquors, as well as non-alcoholic beverages including water, fruit drinks, sodas and other flavored beverages.	
+Brewers, distillers, producers and distributors of beer and malt liquor, wine and distilled liquors, as well as non-alcoholic beverages including water, fruit drinks, sodas and other flavored beverages.	
+Brewers, distillers, producers and distributors of beer and malt liquor, wine and distilled liquors, as well as non-alcoholic beverages including water, fruit drinks, sodas and other flavored beverages.	
+Brewers, distillers, producers and distributors of beer and malt liquor, wine and distilled liquors, as well as non-alcoholic beverages including water, fruit drinks, sodas and other flavored beverages.	
+Producers, refiners and transporters of raw and refined oil and gas products.	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+Miners and processors of precious metals & minerals, steel, aluminum and specialty metals and minerals. Includes integrated mining, and mining support services & equipment companies.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Designers and manufacturers of semiconductors, as well as producers of testing and manufacturing equipment for semiconductor manufacturers.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Developers and marketers of generic system and application software, as well as providers of consulting and IT services.	
+0	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+0	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Producers and processors of Food & Tobacco. Includes operators of farms, aquaculture and fisheries.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Manufacturers and marketers of generic and specialty drugs, as well as researchers and developers of new drugs, medical products and procedures.	
+Manufacturers and marketers of generic and specialty drugs, as well as researchers and developers of new drugs, medical products and procedures.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Providers of advertising, marketing, broadcasting, entertainment production and publishing services.	
+Providers of advertising, marketing, broadcasting, entertainment production and publishing services.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+0	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Builders and engineers that undertake commercial building, civil engineering, utility and other industrial plant construction projects. Includes builders of transportation infrastructure, dam and water works, as well as hotel, office buildings. Includes also manufacturers of heavy machinery for permanent installation.	
+Builders and engineers that undertake commercial building, civil engineering, utility and other industrial plant construction projects. Includes builders of transportation infrastructure, dam and water works, as well as hotel, office buildings. Includes also manufacturers of heavy machinery for permanent installation.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Miners and producers of raw materials for road and building construction. Includes extractors of sand, gravel, rock, clay, granite, limestone, marble, slate, gypsum, lime, and producers of cement, concrete, and bricks, as well as operators of filtering, bleaching, crushing, cutting, sizing and processing services.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Developers and marketers of generic system and application software, as well as providers of consulting and IT services.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Retailers operating pharmacies, grocery, convenience, liquor and specialty food stores.	
+Manufacturers of industrial, construction, agricultural and electrical machinery, equipment & components, and shipbuilders.	
+0	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+0	
+0	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+0	
+0	
+Brewers, distillers, producers and distributors of beer and malt liquor, wine and distilled liquors, as well as non-alcoholic beverages including water, fruit drinks, sodas and other flavored beverages.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Builders of residential homes, mobile homes and prefabricated homes, and manufacturers of value-added building products and home improvement components.	
+0	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+Operators of hotels, motels, cruise lines, restaurants, casinos, gaming operations, sports stadiums, golf courses, amusement parks and other recreational services.	
+0	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+Producers, refiners and transporters of raw and refined oil and gas products.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+0	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Providers of transportation services to passengers via air, ground and sea.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Providers of retail, commercial and investment banking, consumer financial services, investment services, commercial loans and diversified financial services.	
+Miners and producers of raw materials for road and building construction. Includes extractors of sand, gravel, rock, clay, granite, limestone, marble, slate, gypsum, lime, and producers of cement, concrete, and bricks, as well as operators of filtering, bleaching, crushing, cutting, sizing and processing services.	
+Miners and producers of raw materials for road and building construction. Includes extractors of sand, gravel, rock, clay, granite, limestone, marble, slate, gypsum, lime, and producers of cement, concrete, and bricks, as well as operators of filtering, bleaching, crushing, cutting, sizing and processing services.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+0	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+0	
+Producers and processors of Food & Tobacco. Includes operators of farms, aquaculture and fisheries.	
+Developers and marketers of generic system and application software, as well as providers of consulting and IT services.	
+0	
+0	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+0	
+Providers of transportation services to passengers via air, ground and sea.	
+Providers of freight and logistics services by all means, such as air, marine and ground.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+0	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+0	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+0	
+0	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+0	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Producers, refiners and transporters of raw and refined oil and gas products.	
+Producers, refiners and transporters of raw and refined oil and gas products.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+0	
+0	
+0	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Retailers operating pharmacies, grocery, convenience, liquor and specialty food stores.	
+Manufacturers of fabrics, leather and other textiles, apparel, accessories and footwear.	
+Manufacturers of fabrics, leather and other textiles, apparel, accessories and footwear.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+Providers of oil and gas drilling and related services, as well as manufacturers of oil related equipment.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of transportation services to passengers via air, ground and sea.	
+Providers of transportation services to passengers via air, ground and sea.	
+0	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+0	
+0	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+0	
+Operators of healthcare facilities and providers of managed healthcare.	
+Operators of healthcare facilities and providers of managed healthcare.	
+Operators of healthcare facilities and providers of managed healthcare.	
+0	
+Producers and distributors of natural gas.	
+Providers of oil and gas drilling and related services, as well as manufacturers of oil related equipment.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+0	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Miners and producers of raw materials for road and building construction. Includes extractors of sand, gravel, rock, clay, granite, limestone, marble, slate, gypsum, lime, and producers of cement, concrete, and bricks, as well as operators of filtering, bleaching, crushing, cutting, sizing and processing services.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Miners and producers of raw materials for road and building construction. Includes extractors of sand, gravel, rock, clay, granite, limestone, marble, slate, gypsum, lime, and producers of cement, concrete, and bricks, as well as operators of filtering, bleaching, crushing, cutting, sizing and processing services.	
+0	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Brewers, distillers, producers and distributors of beer and malt liquor, wine and distilled liquors, as well as non-alcoholic beverages including water, fruit drinks, sodas and other flavored beverages.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+0	
+0	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+0	
+Builders and engineers that undertake commercial building, civil engineering, utility and other industrial plant construction projects. Includes builders of transportation infrastructure, dam and water works, as well as hotel, office buildings. Includes also manufacturers of heavy machinery for permanent installation.	
+0	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+0	
+0	
+0	
+0	
+0	
+0	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+0	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Designers and manufacturers of semiconductors, as well as producers of testing and manufacturing equipment for semiconductor manufacturers.	
+0	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Builders and engineers that undertake commercial building, civil engineering, utility and other industrial plant construction projects. Includes builders of transportation infrastructure, dam and water works, as well as hotel, office buildings. Includes also manufacturers of heavy machinery for permanent installation.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Providers of transportation services to passengers via air, ground and sea.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+0	
+Producers and distributors of natural gas.	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Providers of advertising, marketing, broadcasting, entertainment production and publishing services.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Retailers operating stores and dealerships focused on a single area. Includes auto part, home improvement, home furnishing, office supply, toy, sporting equipment, book, kitchenware and houseware retailers. Includes also garden centers, car and truck dealerships.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+Manufacturers of industrial, construction, agricultural and electrical machinery, equipment & components, and shipbuilders.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Manufacturers of industrial, construction, agricultural and electrical machinery, equipment & components, and shipbuilders.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Retailers operating pharmacies, grocery, convenience, liquor and specialty food stores.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Manufacturers of advanced medical equipment, medical technology providers and basic medical supplies.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Providers of freight and logistics services by all means, such as air, marine and ground.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Manufacturers of industrial, construction, agricultural and electrical machinery, equipment & components, and shipbuilders.	
+Producers of commercial, military and private aircraft and spacecraft. Includes manufacturers of military equipment, vehicles, explosive ordnance, guidance systems, artillery, ammunition and other related weaponry. Includes also manufacturers of satellites.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Producers and distributors of electricity, natural gas, water, steam and utility infrastructure operators.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+0	
+Manufacturers of fabrics, leather and other textiles, apparel, accessories and footwear.	
+0	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Producers and distributors of natural gas.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Retailers operating stores and dealerships focused on a single area. Includes auto part, home improvement, home furnishing, office supply, toy, sporting equipment, book, kitchenware and houseware retailers. Includes also garden centers, car and truck dealerships.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of transportation services to passengers via air, ground and sea.	
+Operators of forests, pulp and paper mills, producers and manufacturers of wood and paper products, and providers of related services.	
+Manufacturers of industrial, construction, agricultural and electrical machinery, equipment & components, and shipbuilders.	
+Builders and engineers that undertake commercial building, civil engineering, utility and other industrial plant construction projects. Includes builders of transportation infrastructure, dam and water works, as well as hotel, office buildings. Includes also manufacturers of heavy machinery for permanent installation.	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+0	
+Manufacturers of containers, as well as providers of packaging services.	
+Producers of commercial, military and private aircraft and spacecraft. Includes manufacturers of military equipment, vehicles, explosive ordnance, guidance systems, artillery, ammunition and other related weaponry. Includes also manufacturers of satellites.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Producers and distributors of natural gas.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+0	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Manufacturers of telecommunications equipment such as modems, cable decoders, carrier switches, fiber cable, wireless and satellite communication equipment.	
+Producers and distributors of natural gas.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Operators of hotels, motels, cruise lines, restaurants, casinos, gaming operations, sports stadiums, golf courses, amusement parks and other recreational services.	
+0	
+0	
+Producers, refiners and transporters of raw and refined oil and gas products.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Brewers, distillers, producers and distributors of beer and malt liquor, wine and distilled liquors, as well as non-alcoholic beverages including water, fruit drinks, sodas and other flavored beverages.	
+Producers, refiners and transporters of raw and refined oil and gas products.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+Providers of freight and logistics services by all means, such as air, marine and ground.	
+Providers of freight and logistics services by all means, such as air, marine and ground.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Developers and marketers of generic system and application software, as well as providers of consulting and IT services.	
+Providers of advertising, marketing, broadcasting, entertainment production and publishing services.	
+Providers of advertising, marketing, broadcasting, entertainment production and publishing services.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+0	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of transportation services to passengers via air, ground and sea.	
+Providers of transportation services to passengers via air, ground and sea.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+Producers, refiners and transporters of raw and refined oil and gas products.	
+0	
+0	
+0	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+0	
+Manufacturers and marketers of generic and specialty drugs, as well as researchers and developers of new drugs, medical products and procedures.	
+Owners and operators of highways, rail tracks, airports, and marine ports.	
+0	
+Providers of transportation services to passengers via air, ground and sea.	
+Producers of commercial, military and private aircraft and spacecraft. Includes manufacturers of military equipment, vehicles, explosive ordnance, guidance systems, artillery, ammunition and other related weaponry. Includes also manufacturers of satellites.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+0	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Manufacturers and marketers of generic and specialty drugs, as well as researchers and developers of new drugs, medical products and procedures.	
+Developers and marketers of generic system and application software, as well as providers of consulting and IT services.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+Providers of investment banking, brokerage and investment management services without significant commercial or retail banking operations.	
+Providers of oil and gas drilling and related services, as well as manufacturers of oil related equipment.	
+Manufacturers of industrial, construction, agricultural and electrical machinery, equipment & components, and shipbuilders.	
+Manufacturers of industrial, construction, agricultural and electrical machinery, equipment & components, and shipbuilders.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Producers, refiners and transporters of raw and refined oil and gas products.	
+Large organizations, engaged in multiple business lines within the consumer goods sectors, including non-cyclical consumer goods and cyclical consumer goods.	
+0	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Builders of residential homes, mobile homes and prefabricated homes, and manufacturers of value-added building products and home improvement components.	
+0	
+0	
+0	
+0	
+0	
+0	
+0	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Providers of transportation services to passengers via air, ground and sea.	
+Operators of hotels, motels, cruise lines, restaurants, casinos, gaming operations, sports stadiums, golf courses, amusement parks and other recreational services.	
+Producers and refiners of agricultural, commodity and specialty chemicals.	
+Producers and distributors of natural gas.	
+0	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Manufacturers of household appliances, tools, house wares and home furnishing goods.	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Operators of forests, pulp and paper mills, producers and manufacturers of wood and paper products, and providers of related services.	
+Builders and engineers that undertake commercial building, civil engineering, utility and other industrial plant construction projects. Includes builders of transportation infrastructure, dam and water works, as well as hotel, office buildings. Includes also manufacturers of heavy machinery for permanent installation.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Listed closed-end investment funds, as well as other funds where participation can be bought and sold as units or shares such as open-ended or mutual funds, exchange-traded funds, exchange traded products, unit trusts and unit investment trusts.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Owners and operators of fixed line and wireless telecommunication networks providing voice and data services.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Manufacturers of industrial, construction, agricultural and electrical machinery, equipment & components, and shipbuilders.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Producers of commercial, military and private aircraft and spacecraft. Includes manufacturers of military equipment, vehicles, explosive ordnance, guidance systems, artillery, ammunition and other related weaponry. Includes also manufacturers of satellites.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+0	
+0	
+Manufacturers of electronic products, such as biometric products, electronic components and parts and display screens.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Manufacturers of non-durable household goods, personal products and providers of personal services.	
+Producers and distributors of electric power, natural gas and combined heat and power. Includes utility companies with multiple operations in the supply of electricity; natural gas; water and district heating and cooling services, and other utility operations. Includes also utility infrastructure operators.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+Manufacturers and marketers of generic and specialty drugs, as well as researchers and developers of new drugs, medical products and procedures.	
+Operators of forests, pulp and paper mills, producers and manufacturers of wood and paper products, and providers of related services.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+Builders and engineers that undertake commercial building, civil engineering, utility and other industrial plant construction projects. Includes builders of transportation infrastructure, dam and water works, as well as hotel, office buildings. Includes also manufacturers of heavy machinery for permanent installation.	
+Operators of water delivery infrastructure, water treatment, filtration and sewage disposal plants. Includes operators supplying geothermal, steam heat and cooled air, as well as providers of hot water for district heating purposes.	
+Operators of water delivery infrastructure, water treatment, filtration and sewage disposal plants. Includes operators supplying geothermal, steam heat and cooled air, as well as providers of hot water for district heating purposes.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
+0	
+Builders and engineers that undertake commercial building, civil engineering, utility and other industrial plant construction projects. Includes builders of transportation infrastructure, dam and water works, as well as hotel, office buildings. Includes also manufacturers of heavy machinery for permanent installation.	
+Providers of advertising, marketing, broadcasting, entertainment production and publishing services.	
+Providers of advertising, marketing, broadcasting, entertainment production and publishing services.	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Developers and managers of real estate who build, rent and lease residential and commercial properties. Includes real estate brokerage and agency services, real estate appraisal services and consulting services.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Companies primarily engaged in investing in securities/stakes of other companies and for their own profits. Investment Holding Companies might have both minority and majority stakes. Excludes companies investing in private equity firms, classified in Private Equity; companies investing in venture capital firms, classified in Venture Capital; companies operating through subsidiaries/majority-held entities in various economic segments, classified according to the dominant segment of activity or, in case of a significant size and lack of dominant segment, in Industrial Conglomerates; UK-type investment trusts, classified in UK Investment Trusts.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of environmental, employment, business support, professional information, and commercial printing services and supplies.	
+Providers of financial technology (Fintech) services and infrastructure.	
+Investment trusts that secure interests related to rights on residential and commercial real estate.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Providers of retail and commercial banking, consumer financial services and commercial loans for long-term equipment leases. Includes bank holding companies. Excludes providers of investment banking services, classified in Investment Banking.	
+Generators and distributors of electric power. Includes hydroelectric, fossil fuel, nuclear, solar, tidal, wind and independent electric power generators.	
+Manufacturers of automobiles, light trucks, motorcycles, as well as related vehicle parts, tires and primary rubber products.	
+Underwriters and carriers of property, casualty, life and health insurance policies, as well as reinsurance carriers.	
