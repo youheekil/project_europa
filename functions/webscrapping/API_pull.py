@@ -88,7 +88,7 @@ def match_data(wm, un, pw, file_dir, file_name, save_dir, save_name,
     if round_==1:
         
 ##      # path for file
-        full_path = file_dir + 'main_match_' + file_name + '.csv'
+        full_path = file_dir + '4_main_match_' + file_name + '.csv'
     
 ##      # check encoding of files: open first 10'000 bytes                 
         with open(full_path, 'rb') as rawdata:
@@ -105,6 +105,7 @@ def match_data(wm, un, pw, file_dir, file_name, save_dir, save_name,
         df["Primary Economic"] = '0'
         df["Domiciled"] = '0'
         df["Incorporated"] = '0'
+        df["TRBC code"] = '0'
         df["Primary Industry description"] = '0'
         obs = rows
 
@@ -114,13 +115,13 @@ def match_data(wm, un, pw, file_dir, file_name, save_dir, save_name,
         nan_org = nan_org1 & nan_org2
 
 ##      # save path
-        full_path = save_dir + 'info_match_round1_' + save_name + '.csv'
+        full_path = save_dir + '5_info_match_round1_' + save_name + '.csv'
         
 ##  # second time of retrieving
     elif round_==2:
 
 ##      # path for file
-        full_path = file_dir + 'info_match_round1_' + file_name + '.csv'
+        full_path = file_dir + '5_info_match_round1_' + file_name + '.csv'
     
 ##      # check encoding of files: open first 10'000 bytes                 
         with open(full_path, 'rb') as rawdata:
@@ -140,7 +141,7 @@ def match_data(wm, un, pw, file_dir, file_name, save_dir, save_name,
         print('checking for ' + str( len(obs) ) + ' observations')
 
 ##      # save path
-        full_path = save_dir + 'info_match_round2_' + save_name + '.csv'
+        full_path = save_dir + '5_info_match_round2_' + save_name + '.csv'
     
 ##  # no other time is allowed
     else: 
@@ -224,7 +225,7 @@ def match_data(wm, un, pw, file_dir, file_name, save_dir, save_name,
                 
 ##          # enter web
             browser.get(web)
-            time.sleep(10)
+            time.sleep(15)
 
 ##          # check for error
             handle_web(b=browser, w=web)
@@ -258,12 +259,15 @@ def match_data(wm, un, pw, file_dir, file_name, save_dir, save_name,
 ##                handle_web(b=browser, w=web) # not implemented yet
                 soup = bs(web_source, 'html.parser')
                 full_class = soup.find_all('div', class_='col-md-8 ng-binding')
+##                print(full_class)
 
 ##              # if there is info go in                                  
                 if len(full_class) > 0:
+                    
 ##                  # save info
-                    full_info.append(full_class[3].text) # always located in [3]
-                    df.iloc[i, range(11,17)] = full_info
+                    full_info.append(full_class[2].text) # TRBC code
+                    full_info.append(full_class[3].text) # Industry Description
+                    df.iloc[i, range(11,18)] = full_info
             
 ##                  # save data
                     df.to_csv(full_path, index=False, encoding=encoding['encoding'])
