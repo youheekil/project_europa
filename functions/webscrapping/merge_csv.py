@@ -136,7 +136,7 @@ def merge_csv(save_dir, file_dir, file_name):
 ##      # saving data
 ##      # use most repeated encoding
         final_encode = mode(encode)
-        full_path = save_dir + file_name + '.csv'
+        full_path = '1_' + save_dir + file_name + '.csv'
         merged_df.to_csv(full_path, index=False, encoding=final_encode)
         
         print('finished')
