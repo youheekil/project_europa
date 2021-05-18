@@ -140,3 +140,69 @@ def merge_csv(save_dir, file_dir, file_name):
         merged_df.to_csv(full_path, index=False, encoding=final_encode)
         
         print('finished')
+
+
+
+############################################
+# function merge_taxonomy
+############################################
+def merge_taxonomy(file_match, file_taxonomy, file_main, save_dir):
+
+##  #-----------------------
+##  # taxonomy data files
+##  #-----------------------
+##  # path for file
+    full_path = file_taxonomy + 'sustainable-taxonomy_renewable.csv'
+        
+##  # load data
+    df_green = pd.read_csv(full_path, sep=',')
+    df_green['TRBC_6'] = df_green['TRBC_6'].astype(float).astype(str)
+    # print( df_green )
+    
+##  #-----------------------
+##  # match data files
+##  #-----------------------
+##  # path for file
+    full_path1 = file_match + '5_info_match_round2_complete.csv'
+    full_path2 = file_match + '6_info_match_round2_missing.csv'
+        
+##  # load data
+    df_comp = pd.read_csv(full_path1, sep=',')
+    df_miss = pd.read_csv(full_path2, sep=',')
+##    print(df_comp)
+##    print(df_miss)
+
+##  # append data
+    df_comp = df_comp.append(df_miss)
+    df_comp['TRBC code'] = df_comp['TRBC code'].astype(float).astype(str)
+##    print(df_comp)
+
+##  # create 'green' economy column
+    df_comp = df_comp.assign( green=df_comp['TRBC code'].isin(df_green.TRBC_6).astype(int) )
+##    print( sum(df_comp.green) )
+
+##  # save dataFrame
+    full_path = save_dir + '7_info_match_round3_complete.csv'
+    df_comp.to_csv(full_path, index=False)
+    
+
+##  #-----------------------
+##  # main data files
+##  #-----------------------
+##  # path for file
+    full_path = file_main + '1_CSPPholdings_201706_2021.csv'
+        
+##  # load data
+    df_main = pd.read_csv(full_path, sep=',')
+
+##  # merge 'TRBC code' and 'green' columns
+    right_df = df_comp[['Name_1','Name_2','TRBC code','green']]
+    right_df = right_df.rename(columns={"Name_1":"Name1", "Name_2":"Name2"})
+    df_main = df_main.merge(right_df, on=['Name1','Name2'], how='left')
+##    print(df_main)
+
+##  # save dataFrame
+    full_path = save_dir + '7_CSPPholdings_201706_2021.csv'
+    df_main.to_csv(full_path, index=False)
+
+    print('finished')

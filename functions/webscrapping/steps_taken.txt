@@ -41,7 +41,9 @@ step needed in the case of using ubuntu
 		scrappers: 	
 			. python3 -m pip install -U bs4 selenium requests lxml lightrdf
 		analysis:
-			. python3 -m pip install -U jupyter matplotlib numpy pandas scipy scikit-learn
+			. python3 -m pip install -U jupyter matplotlib numpy pandas scipy scikit-learn pystan
+		nlp:
+			. python3 -m pip install -U spacy nltk itertools
 		file control:
 			. python3 -m pip install -U os shutil send2trash re glob
 		already installed:
@@ -75,10 +77,18 @@ it can be idle, spyder, Jupyter notebook, or other IDE
 			. 'match_format': to produce the correct csv, per (name file)
 	
 	5.3 join all matched information
-		- function: 
-			. 'match info': to join all (name files) produced in the previous step
+	to join all (name files) produced in the previous step
+		- function: 'match_info'
 		
 	5.4 pull information of entities:
-		- function: 
-			. 'match_data'
+		- function: 'match_data'
 			
+	5.5 manual identification of missing companies
+
+6. Manual identification of TRBC code for green industries (based on EU taxonomy)
+
+7. merge data of companies and EU taxonomy (based on first 6 digits of TRBC code)
+	- functions: 
+		. 'merge_taxonomy'
+		
+		
