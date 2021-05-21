@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/opt/anaconda3/envs/ml/bin/python"
+    "python.pythonPath": "/opt/anaconda3/envs/ml/bin/python",
+    "workbench.colorCustomizations": {}
 }
