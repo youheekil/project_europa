@@ -30,7 +30,7 @@ train[idx] = TRUE
 # sum(train)
 
 data_list = list(N = nrow(wordcloud[train,]),
-                 K = ncol(wordcloud)-1, 
+                 K = ncol(wordcloud)-2, 
                  G = wordcloud$G[train],
                  W = as.matrix(wordcloud[train,-c(251:252)]) )
 # str(data_list)
@@ -173,7 +173,7 @@ par(mfrow=c(1,1))
 
 # posterior predictive ####
 G_test = wordcloud$G[!train]
-W_test = as.matrix(wordcloud[!train,-251])
+W_test = as.matrix(wordcloud[!train,-c(251:252)])
 
 post = extract.samples(mcmc_model)
 post = post$b

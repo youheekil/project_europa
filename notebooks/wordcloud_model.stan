@@ -13,7 +13,7 @@ model {
     vector[N] p; // probability
     
     // priors
-    // multilevel LASSO prior (highly regularizing), 
+    // LASSO prior (highly regularizing), 
     b ~ double_exponential(0, 0.2);
     
     //# // highly regularizing prior (not LASSO, not multilevel)
