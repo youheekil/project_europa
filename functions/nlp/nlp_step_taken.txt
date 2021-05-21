@@ -1,0 +1,41 @@
+We will see how the vast majority of available text information, 
+in the form of unlabelled text data, can be used to build analyses. 
+
+We will comment on topic modeling, word vecotrs, and state-of-the art language models
+
+# topic Modeling
+
+As they often have similar meanings, and such methods are analogous to clustering algorithms
+in that the goal is to reduce the dimensionality of text into underlying 
+coherent "topics", as are typically represented as some linear combination of words. 
+LDA is a generative statistical model which posits that each document is a mixture of a small number of topics and that each 
+topic emanates from a set of words. The goal of LDA is thus to generate a word-topics 
+distribution and topics-documents distribution that approximates the word-document
+data distribution. 
+
+
+**nlp_detect_green.py**
+NLP: Detecting green company by extracting sustainable contribution activity defined 
+    by EU taxonomy. 
+
+* import
+    - taxonomy data: to get activity for sustainable contribution companies.
+    - matched data:
+     @param sustainable_contribution [str]: list of sustainable contribution activity from taxomony summary table
+
+2. description_token.py 
+3. green_classification:
+* taxonomy & primary industry data
+    - stemming and lemmatization which allow us to reduce a word to its smallest form
+        - snowball stemmer and wordnet lemmatizer is applied
+    - text cleaning 
+        - remove all weird spaces
+        - lower 
+        - remove all punctuations using regex and string module 
+
+* taxonomy data
+    - topic extraction is done by using non-negative matrix factorization (NMF) and latent semantic analysis (LSA)
+        which are popularly known as singular value decomposition (SVD). 
+        SVD techniques reduce the data to a given number of components. 
+
+# green company detection by using sustainable contribution words   
