@@ -2,13 +2,8 @@
 import pandas as pd
 import os
 import sys 
-import config
-
 import numpy as np 
 import openpyxl
-
-# train and test dataset
-from sklearn.model_selection import train_test_split
 
 #sentencize
 import re
@@ -17,7 +12,7 @@ import string
 
 #tokenize (!pip install nltk)
 import nltk
-nltk.download('punkt')
+#nltk.download('punkt')
 
 
 # sentencizer pipeline component
@@ -122,7 +117,7 @@ df.loc[:, "Primary Industry description"] = df["Primary Industry description"].a
 
 
 #=============================================================#
-#       Tokenize sustainable contribution list                #
+#                                Tokenize                     #
 #=============================================================#
 
 # tokenize the sentences 
@@ -159,9 +154,6 @@ stemmer = SnowballStemmer("english")
 #                               Topic Extraction                       #
 # ==================================================================== #
 # create a corpus of sentences # @corpus ??
-# we read samples from training data
-# for this data
-
 corpus = taxonomy['Activity'].values
 
 # initialize TfidfVecorizer with word_toeknize from nltk as the tokenizer
@@ -195,8 +187,6 @@ feature_scores = dict(
 # sort it in decreasing order and get the 
 # top N topics
 N = 10
-# make sure the directory is set as "/data/processed"
-#os.chdir(path + "/data/processed")
 
 # save result as txt file titled green_classification. 
 #sys.stdout = open("green_classification.txt", "w")
@@ -215,7 +205,7 @@ for sample_index in range(N):
             reverse = True
             )[:N]
     classification.append(result)
-    print(result)
+    
 
 #saved_stdout = sys.stdout 
 #sys.stdout.close()
@@ -224,7 +214,7 @@ for sample_index in range(N):
 # create a dictionary of green_classification
 green_classification = dict(list(enumerate(classification)))
 for key in green_classification:
-    print('class:', key, 'has words of ', green_classification[key])
+    print('\nTopic', key, ':', green_classification[key])
 
 # ==================================================================== #
 #            detect green company by matching words                    #
@@ -236,11 +226,9 @@ for greens in green_list:
         g_lemma = lemmatizer.lemmatize(greens)
         green.append(g_lemma)
 
-print(green)   
-# data 
-# df = pd.read_csv(path + "/data/processed/description_tokenized.csv")
-# clean the data 
-df.loc[:, "Primary Industry description"] = df["Primary Industry description"].apply(clean_text)
+print(f"\n\nSustainable Contribution Activities are consisted of {green}.")   
+
+#df.loc[:, "Primary Industry description"] = df["Primary Industry description"].apply(clean_text)
  
 # for loop to assign how many 'green' words are included. 
 for label, row in df.iterrows():
@@ -276,7 +264,7 @@ green_company.to_csv("green_company.csv")
 gcp = green_company['Company Name'].unique()
 
 # number of matched green company by the 10 topics 
-gcp.shape[0]
+print(f"\n\nThe number of detected green company is {gcp.shape[0]} \n\n The detected companies are {gcp}")
 # todo: :complete: add number of the green words in the description 
 # todo: :further: based on the result, we probably can use the bert model for prediction later -> create the model
 
