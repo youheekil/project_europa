@@ -1,0 +1,39 @@
+We will see how the vast majority of available text information, 
+in the form of unlabelled text data, can be used to build analyses. 
+
+# topic Modeling
+
+As they often have similar meanings, and such methods are analogous to clustering algorithms
+in that the goal is to reduce the dimensionality of text into underlying 
+coherent "topics", as are typically represented as some linear combination of words. 
+
+As a decomposition technique that reduce the data to a given number of components, 
+we used TfidVectorizer which is one of methods in NLP. TF is term frequencies, and IDF is inverse document frequency. 
+Then we applied SVD to extract topics . 
+
+
+**nlp_detect_green.py**
+NLP: Detecting green company by extracting sustainable contribution activity defined 
+    by EU taxonomy. 
+
+step 1. data_import
+    - taxonomy data: to get activity for sustainable contribution companies.
+    - matched data: matched data from web_scrapping.
+
+step 2. Preprocessing the raw text
+* Tokenization : split text into sentences and the sentences into words. 
+                lowercase the words and remove punctuation.
+* All stopwords are removed as well. 
+* Lemmatize words : words in third person are changed to first person. 
+                    And verbs in past and future tenses are changed into present tense. 
+                    This will allow us to reduce a word to its smallest form 
+                    - wordnet lemmatizer is applied
+
+step 3. 
+* topic extraction from the list of sustainable contribution activity
+    - topic extraction is done by using non-negative matrix factorization (NMF) and latent semantic analysis (LSA)
+        which are popularly known as singular value decomposition (SVD). 
+        SVD techniques reduce the data to a given number of components. 
+
+step 4. 
+* detect green company by using the list of words of the extracted topics from the sustainable contribution 
